@@ -106,7 +106,7 @@ hgroup,
 menu,
 nav,
 section {
-  display: block;
+  display: inline-block;
 }
 body {
   line-height: 1;
