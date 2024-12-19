@@ -16,3 +16,7 @@ body > main > article {
   flex: 1;
   overflow-y: auto;
 }
+
+header > ul > li > a.logo {
+  font-size: 3rem;
+}
